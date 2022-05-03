@@ -10,7 +10,7 @@
 baixar e instalar a ferramenta Git e a IDE - Integrated development Environment - Spring Tools  
 
 ## Iniciar
---> No Windows,crie uma pasta e click com o mouse direito sobre ela,abrir Git Bash here.  
+--> No Windows,crie uma pasta e clique com o mouse direito sobre ela,abrir Git Bash here.  
    
    (![image](https://user-images.githubusercontent.com/97295077/166489415-6c351061-0521-424f-845b-1b96021a5f72.png)
 
