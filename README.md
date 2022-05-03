@@ -11,11 +11,15 @@ baixar e instalar a ferramenta Git e a IDE - Integrated development Environment 
 
 ## Iniciar
 --> No Windows,crie uma pasta e click com o mouse direito sobre ela,abrir Git Bash here.  
+   
+   (![image](https://user-images.githubusercontent.com/97295077/166489415-6c351061-0521-424f-845b-1b96021a5f72.png)
+
 
    
     
 
---> No terminal Git Bash,clone o projeto para esta pasta recém criada com o comando git clone https://github.com/javabin7777777/desafios.git  
+--> No terminal Git Bash,clone o projeto para esta pasta recém criada com o comando  
+    ➡️ git clone https://github.com/javabin7777777/desafios.git  
 
 --> Abrir a IDE Spring Tool.   
 --> No menu,clique em FILE e depois em OPEN PROJECTS FROM FILE SYSTEM(abrir projetos a partir do sistema de arquivos)  
