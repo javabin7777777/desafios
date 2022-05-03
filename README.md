@@ -10,4 +10,5 @@
 baixar e instalar a ferramenta Git e a IDE - Integrated development Environment - Spring Tools  
 
 ## Iniciar
+--> Clone o projeto para seu local
 
