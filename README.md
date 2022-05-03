@@ -7,7 +7,7 @@
 
 
 ## Instalação 
-baixar e instalar a ferramenta Git e a IDE - Integrated development Enviroment - Spring Tools  
+baixar e instalar a ferramenta Git e a IDE - Integrated development Environment - Spring Tools  
 
 ## Iniciar
 
