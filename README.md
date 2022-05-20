@@ -27,9 +27,9 @@ baixar e instalar a ferramenta Git e a IDE - Integrated development Environment 
    
    ![image](https://user-images.githubusercontent.com/97295077/166488043-e0c5501c-91a0-45db-8e48-cc4892df1094.png)
 
---> Abaixo do menu existem diversos ícones,entre eles,existe um ícone na forma de uma bolinha na cor verde com triângulo na cor branca  
-em seu interior.Clique sobre este ícone e escolha um dos desafios(numerados 1 a 3) clicando sobre ele,então o projeto será executado   
-e o resultado(saída) aparecerá na janela do -- CONSOLE -- logo abaixo.  
+--> Abaixo do menu existem diversos ícones,entre eles,existe um ícone na forma de uma bolinha na cor verde com triângulo na cor branca em seu interior.  
+Clique sobre este ícone e escolha um dos desafios(numerados 1 a 3) clicando sobre ele,então o projeto será executado e o resultado(saída) aparecerá 
+na janela do -- CONSOLE -- logo abaixo.  
 
 ![image](https://user-images.githubusercontent.com/97295077/166488442-33d580f0-2602-4055-9580-22340551f5cd.png)  
  # Descrição dos desafios
