@@ -1,7 +1,7 @@
 # desafios  
 ## Tecnologias  
 - Java  
-- [Java SE Developement kit-17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
+- [Java SE Development kit-17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
 - [Git](https://git-scm.com/downloads)
 - [Spring Tools](https://spring.io/tools)  
 
